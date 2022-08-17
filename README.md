@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mahyar-abdoli
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mahyar.
+- 👀 I’m interested in Python and Machine Learning.
+- 🌱 I’m currently learning Datascience.
+- 💞️ I’m looking to collaborate on simple projects.
+- 📫 How to reach me at [Telegram](telegram.me/neomahyar)
 
 <!---
 mahyar-abdoli/mahyar-abdoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
